@@ -1,6 +1,6 @@
 
 # Exercise App in Flutter
-![](https://img.shields.io/github/last-commit/iam-ranjeet/Exercise-App.svg?label=last%20update&style=flat)
+![](https://img.shields.io/github/last-commit/imranjeet/Exercise-App.svg?label=last%20update&style=flat)
 <!-- <h4 align="start">
  This is a basic mobile application that uses the flutter framework to create a Travel App.
 </h4> -->
